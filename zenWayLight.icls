@@ -1,4 +1,4 @@
-<scheme name="zenWay light" version="123" parent_scheme="Default">
+<scheme name="zenWay light" version="124" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
@@ -34,7 +34,7 @@
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="303134" />
     <option name="SELECTED_TEARLINE_COLOR" value="787878" />
-    <option name="SELECTION_BACKGROUND" value="343640" />
+    <option name="SELECTION_BACKGROUND" value="1f2023" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="343640" />
     <option name="WHITESPACES" value="505050" />
